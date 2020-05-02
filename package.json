@@ -1,0 +1,28 @@
+{
+  "name": "simpleapi",
+  "version": "1.0.0",
+  "description": "a simple API made with Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvneves2010/simpleAPI.git"
+  },
+  "keywords": [
+    "API",
+    "Node",
+    "Express",
+    "JavaScript"
+  ],
+  "author": "Leonardo Neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvneves2010/simpleAPI/issues"
+  },
+  "homepage": "https://github.com/lvneves2010/simpleAPI#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
